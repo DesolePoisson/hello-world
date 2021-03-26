@@ -1,2 +1,5 @@
 # hello-world
-Testtesttesttest
+- 👋 Hi, I’m @DesolePoisson
+- 👀 I’m interested in stuff
+- 🌱 I’m currently learning everything
+
